@@ -1,6 +1,7 @@
 body {
   background-color: coral;
-  font-family: 'Abril Fatface';font-size: 100px;
+  font-family: 'Abril Fatface', Arial, sans-serif;
+  font-size: 100px;
   margin: 0;
 }
 
